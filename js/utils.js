@@ -31,7 +31,7 @@ function mko(){
 	mkohashrate=admin.miner.hashrate();
 	if(mkohashrate==0){
 		console.log("warning: hashrate is (still?) zero.");
-		utilvs.lastHashRate=0;
+		//utilvs.lastHashrate=0;
 		//return;
 	}
 	if(mkohashrate==utilvs.lastHashrate){
