@@ -11,6 +11,8 @@ Currently, there are three files there, balances.js,  utils.js, and stressTest.j
 
 Will include both balances.js. stressTest.js is currently for testing transaction stuff in the testnet.
 
+If you've written a function that others might find useful in the console, feel free to submit a pull request to add it, if you want. The standard for inclusion isn't high. I think it would probably be included.
+
 A list of the different functions included follows:
 
 ##in balances.js:
